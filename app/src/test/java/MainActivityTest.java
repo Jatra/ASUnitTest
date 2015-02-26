@@ -7,7 +7,7 @@ import uk.co.jatra.asunittest.MainActivity;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@RunWith(MyRobolectricTestRunner.class)
+@RunWith(RobolectricTestRunner.class)
 public class MainActivityTest {
 
     @Test
