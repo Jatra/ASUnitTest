@@ -1,5 +1,4 @@
 import org.robolectric.AndroidManifest;
-import org.robolectric.RobolectricTestRunner;
 import org.robolectric.annotation.Config;
 import org.robolectric.res.Fs;
 
